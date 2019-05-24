@@ -10,7 +10,7 @@ Brad Marchand is a controversial player but the 71st overall pick in the 2006 NH
 
 Nonetheless, it is clear that once Marchand clears ~1300 minutes of ice time in a season (there were only three seasons where he played less than that, including the shortened 2012–2013 lockout season), his goals are north of 24 per season and the Bruins win.
 <p align="center">
-**The Bruins are 27–1 in the playoffs, when Marchand scores.**
+	<b>The Bruins are 27–1 in the playoffs, when Marchand scores.</b>
 </p>
 <p align="center">
   <img src="/img/earth.png"/>
