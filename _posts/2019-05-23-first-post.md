@@ -22,8 +22,10 @@ The upcoming Finals will be a flashback to 1970, the last year the St. Louis Blu
 
 <p align="center">
 	<img src="/img/orr_bobby_gal.jpg"/>
-	Bobby Orr Dives on May 10, 1970. Boston Bruins vs. St. Louis Blues.
+	
+Bobby Orr Dives on May 10, 1970. Boston Bruins vs. St. Louis Blues.
 </p>
+
 
 ---
 
