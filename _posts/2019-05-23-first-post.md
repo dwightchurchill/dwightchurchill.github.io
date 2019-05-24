@@ -8,7 +8,8 @@ Brad Marchand is no stranger to controversy (many wanted him suspended for a lat
 
 ![Keep Brad on the Ice](/img/marchand.png)
 
-Nonetheless, once Marchand clears ~1300 minutes of ice time (there were only three seasons where he played less than that, including the shortened 2012–2013 lockout season) and 25 goals in a season, the Bruins win.
+Nonetheless, once Marchand clears ~1300 minutes of ice time (there were only three seasons where he played less than that, including the shortened 2012–2013 lockout season) and 25 goals in a season, the Bruins win. As a reference for winning percentages, the Bruins finished the regular season at 60% and the Blues at 55%. 
+
 <p align="center">
 	<b>The Bruins are 27–1 in the playoffs, when Marchand scores.</b>
 </p>
