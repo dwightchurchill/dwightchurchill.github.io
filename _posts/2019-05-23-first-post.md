@@ -8,7 +8,7 @@ Brad Marchand is no stranger to controversy (many wanted him suspended for a lat
 
 ![Keep Brad on the Ice](/img/marchand.png)
 
-Nonetheless, it is clear that once Marchand clears ~1300 minutes of ice time in a season (there were only three seasons where he played less than that, including the shortened 2012–2013 lockout season), his goals are north of 24 per season and the Bruins win.
+Nonetheless, once Marchand clears ~1300 minutes of ice time (there were only three seasons where he played less than that, including the shortened 2012–2013 lockout season) and 25 goals in a season, the Bruins win.
 <p align="center">
 	<b>The Bruins are 27–1 in the playoffs, when Marchand scores.</b>
 </p>
@@ -35,4 +35,4 @@ Photograph of Bobby Orr was shot by Ray Lussier.
 
 Data courtesy of <https://www.hockey-reference.com>
 
-You can view the code behind this here: <https://github.com/dwightchurchill/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/data-story.ipynb>
+You can view the code behind this post here: <https://github.com/dwightchurchill/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/data-story.ipynb>
