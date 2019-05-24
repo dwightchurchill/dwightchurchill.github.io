@@ -22,6 +22,8 @@ Bobby Orr Dives on May 10, 1970. Boston Bruins vs. St. Louis Blues.
 
 ---
 
-Data courtesy of www.hockey-reference.com
 Photograph of Bobby Orr was shot by Ray Lussier.
-You can view the code behind this here:
+
+Data courtesy of www.hockey-reference.com
+
+You can view the code behind this here: https://github.com/dwightchurchill/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/data-story.ipynb
