@@ -22,8 +22,9 @@ The upcoming Finals will be a flashback to 1970, the last year the St. Louis Blu
 
 <p align="center">
 	<img src="/img/orr_bobby_gal.jpg"/>
-	
-Bobby Orr Dives on May 10, 1970. Boston Bruins vs. St. Louis Blues.
+</p>
+<p align="center">
+	Bobby Orr Dives on May 10, 1970. Boston Bruins vs. St. Louis Blues.
 </p>
 
 
@@ -31,6 +32,6 @@ Bobby Orr Dives on May 10, 1970. Boston Bruins vs. St. Louis Blues.
 
 Photograph of Bobby Orr was shot by Ray Lussier.
 
-Data courtesy of www.hockey-reference.com
+Data courtesy of <https://www.hockey-reference.com>
 
-You can view the code behind this here: https://github.com/dwightchurchill/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/data-story.ipynb
+You can view the code behind this here: <https://github.com/dwightchurchill/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/data-story.ipynb>
