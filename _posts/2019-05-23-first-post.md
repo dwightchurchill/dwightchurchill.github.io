@@ -4,6 +4,13 @@ title: Keep Brad Marchand on the Ice
 image: /img/orr_bobby_gal.jpg
 ---
 
+<p align="center">
+	<img src="/img/orr_bobby_gal.jpg"/>
+</p>
+<p align="center">
+	Bobby Orr Dives on May 10, 1970. Boston Bruins vs. St. Louis Blues.
+</p>
+
 Brad Marchand is no stranger to controversy (many wanted him suspended for a late game punch in the second round of playoffs) but the 71st overall pick in the 2006 NHL draft has proven to be one of the best over the last ~10 seasons. This season Marchand has put together another insane one with 100 points in the regular season and 18 in the playoffs prior to the upcoming Finals. He is the first Bruin to hit 100 points in the regular season since Joe Thornton did in the '02–03 season and is the only Bruin that is averaging more than 1 point per game in the playoffs. To keep things entertaining, he also finished the regular season with just under 100 penalty minutes.
 
 ![Keep Brad on the Ice](/img/marchand.png)
