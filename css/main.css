@@ -353,7 +353,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 15px;
+  font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -477,7 +477,7 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 45px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
