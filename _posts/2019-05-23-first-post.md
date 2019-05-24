@@ -12,7 +12,7 @@ Nonetheless, it is clear that once Marchand clears ~1300 minutes of ice time in 
 The Bruins are 27–1 in the playoffs, when Marchand scores.
 
 <p align="center">
-  <img href="/img/earth.png"/>
+  <img src="/img/earth.png"/>
 </p>
 
 Over the Halifax native's career 262 regular season goals (visualized below over each arena's location) and 28 playoff goals he has consistently pushed the Bruins and while the 2019 Cup Finals are just about to kick off, he has the chance do it again.
