@@ -11,7 +11,9 @@ Brad Marchand is a controversial player but the 71st overall pick in the 2006 NH
 Nonetheless, it is clear that once Marchand clears ~1300 minutes of ice time in a season (there were only three seasons where he played less than that, including the shortened 2012–2013 lockout season), his goals are north of 24 per season and the Bruins win.
 The Bruins are 27–1 in the playoffs, when Marchand scores.
 
-![Keep Brad on the Ice](/img/earth.png)
+<p align="center">
+  <img href="/img/earth.png"/>
+</p>
 
 Over the Halifax native's career 262 regular season goals (visualized below over each arena's location) and 28 playoff goals he has consistently pushed the Bruins and while the 2019 Cup Finals are just about to kick off, he has the chance do it again.
 In fact, the Boston Bruins hold a playoff record of 27–1, when Brad Marchand scores. That is a ridiculous statistic when you consider that the last time they lost a game, where Marchand scored, was 7 years ago.
