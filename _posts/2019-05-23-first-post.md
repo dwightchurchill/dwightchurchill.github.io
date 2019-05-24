@@ -18,7 +18,8 @@ Nonetheless, it is clear that once Marchand clears ~1300 minutes of ice time in 
 
 Over the Halifax native's career 262 regular season goals (visualized below over each arena's location) and 28 playoff goals he has consistently pushed the Bruins and while the 2019 Cup Finals are just about to kick off, he has the chance do it again.
 In fact, the Boston Bruins hold a playoff record of 27–1, when Brad Marchand scores. That is a ridiculous statistic when you consider that the last time they lost a game, where Marchand scored, was 7 years ago.
-The upcoming Finals will be a flashback to 1970, the last year the St. Louis Blues attended. Bobby Orr's infamous photo (below) was taken then when the Bruins swept the Blues in four games. 
+
+The upcoming Finals will be a flashback to 1970, the last year the St. Louis Blues attended. Bobby Orr's infamous photo (below) was taken then and the Bruins swept the Blues in four games. Exited to see if Marchand and the team can pull out a W! 
 
 <p align="center">
 	<img src="/img/orr_bobby_gal.jpg"/>
