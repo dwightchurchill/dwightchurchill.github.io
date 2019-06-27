@@ -28,7 +28,7 @@ Visualizing the Elite Men's Category
 
 The Method
 
-Once splitting out the male finishers, I chose to use gradient boosting and specifically XGBoost library for my classification for mainly it's speed but also it's well-known model performance on tabular datasets like this one. The XGBoost library leverages the gradient boosting decision tree algorithm. In the most simple terms, in my opinion, this algorithm is an ensemble technique where new models are added to correct the errors made by existing models.
+Once splitting out the male finishers, I chose to use gradient boosting and specifically the XGBoost library for classification. I decided on XGBoost mainly because of it's speed but also it's well-known model performance on tabular datasets like this one. The XGBoost library leverages the [gradient boosting decision tree algorithm](https://en.wikipedia.org/wiki/Gradient_boosting). In the most simple terms, in my opinion, this algorithm is an ensemble technique where new models are added to correct the errors made by existing models.
 
 Feature Importance
 
