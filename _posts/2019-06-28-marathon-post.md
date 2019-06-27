@@ -39,12 +39,14 @@ In order to visualize 'feature importance', I've leveraged xgboost's plot_import
 </p>
 
 Visualizing Decisions
-Next, we see our tree in motion. This is a nice and super clear visual of the 'splits' or 'decision' and the result of each. 
+
+Next, we can see our tree in motion. This is a nice and super clear visual of the 'splits' or 'decision' and the result of each. 
 
 <p align="center">
 	<img src="/img/plot_tree.png"/>
 </p>
 
+To summarize, we could definitely take things further (marathon predictions have been tackled many times). We could gather more data than we had here (how one trains is a big one). However, it was neat to just see how things preformed (check the github link below) once we split out gender but makes sense given the data's variance.
 
 ---
 
